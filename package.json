@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Sample Ethereum contracts using Solidity",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olegkorol/ethereum-contracts"
+  },
   "main": "index.js",
   "scripts": {
     "cleanInstall": "rimraf node_modules && yarn"
