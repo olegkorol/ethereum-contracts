@@ -1,5 +1,7 @@
 # Simple Voting Dapp
 
-## Setup
+This repo contains some simple smart contracts for the Ethereum Blockchain, written in Solidity.
 
-Run `yarn` or `npm install` to install dependencies.
+## Voting
+
+Contract for voting specified candidates.
