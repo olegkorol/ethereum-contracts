@@ -1,13 +1,14 @@
 {
-  "name": "ethereum-test",
+  "name": "ethereum-contracts",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sample Ethereum contracts using Solidity",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "cleanInstall": "rimraf node_modules && yarn"
   },
   "author": "Oleg Korol <oleg@olegkorol.de>",
-  "license": "MIT",
+  "license": "GNU GPLv3",
   "dependencies": {
     "solc": "^0.4.17",
     "web3": "0.20.1"
